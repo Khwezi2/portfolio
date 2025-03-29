@@ -1,0 +1,183 @@
+.Mybody{
+    margin-top: 135px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-left: 12px;
+    padding-right: 10px;
+    display: flex;
+    justify-content: space-between;
+    /* gap: 4em; */
+}
+#Image{
+    /* margin-right: 320px; */
+    width: 330px;
+    height: 400px;
+    border-radius: 190px;
+    object-fit: cover;
+    float: right;
+}
+
+.Hi-span{
+    color: orangered;
+}
+.texts{
+    width: 400px;
+}
+.ExpBTN{
+    padding: 20px;
+    color: white;
+    background-color: orangered;
+    border-radius: 30px;
+    font-size: 15px;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+}
+.DownloadBTN{
+    margin-top: 10px;
+    border-radius: 30px;
+    margin-left: 40px;
+    padding: 20px;
+    color: white;
+    background-color: black;
+    font-size: 15px;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+.DownloadBTN:hover{
+    color: black;
+    background-color: grey;
+}
+.ExpBTN:hover{
+    color: black;
+    background-color: grey;
+}
+.skills{
+    font-size: 25px;
+}
+.About{
+    margin-top: 135px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-left: 12px;
+    padding-right: 10px;
+    display: flex;
+    justify-content: space-between;
+    /* gap: 3em; */
+}
+.paragraph{
+    width: 450px;
+    margin-left: 230px;
+}
+#Aboutme{
+    font-size: 32px;
+}
+#AboutMePicture{
+    width: 350px;
+    height: 400px;
+    object-fit: cover;
+    float: right;
+    border-radius: 190px;
+}
+.picture{
+    margin-top: 25px;
+}
+.Mybody{
+    margin-top: 135px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-left: 12px;
+    padding-right: 10px;
+    display: flex;
+    justify-content: space-between;
+    /* gap: 4em; */
+}
+#Image{
+    /* margin-right: 320px; */
+    width: 330px;
+    height: 400px;
+    border-radius: 190px;
+    object-fit: cover;
+    float: right;
+}
+
+.Hi-span{
+    color: orangered;
+}
+.texts{
+    width: 400px;
+}
+.ExpBTN{
+    padding: 20px;
+    color: white;
+    background-color: orangered;
+    border-radius: 30px;
+    font-size: 15px;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+}
+.DownloadBTN{
+    margin-top: 10px;
+    border-radius: 30px;
+    margin-left: 40px;
+    padding: 20px;
+    color: white;
+    background-color: black;
+    font-size: 15px;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+.DownloadBTN:hover{
+    color: black;
+    background-color: grey;
+}
+.ExpBTN:hover{
+    color: black;
+    background-color: grey;
+}
+.skills{
+    font-size: 25px;
+}
+/* #Pictures{
+    display: flex;
+    gap: 3em;
+    width: 55px;
+    height: 55px;
+    padding-left: 190px;
+} */
+/* 
+#Khwezi{
+    width: 300px;
+    height: 300px;
+    /* border-radius: 190px; */
+    /* object-fit: cover;
+    float: right; */
+/* }
+.About{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+ */ 
+
+/* .About{
+    padding-left: 12px;
+    margin-top: 160px; */
+    /* margin-left: 200px;
+    margin-right: 200px; */
+    /* padding: 10px 200px; */
+    /* background-color: grey; */
+    /* color: black; */
+/* } */
+/* #Aboutme{
+    
+}
+.skills{
+    text-align: center;
+}
+
+ */

@@ -1,0 +1,54 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.Navbar{
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+    background-color: black;
+    padding: 10px 200px;
+}
+.links{
+    display: flex;
+    text-align: center;
+    gap: 5em;
+    font-size: 17px;
+ }
+.links a{
+    text-decoration: none;
+    color: white;
+}
+.links li{
+    list-style: none;
+}
+.links a:hover{
+    cursor: pointer;
+    transition: 150ms;
+    border-bottom: 3px solid orangered;
+    color: orangered;
+}
+.Khwezi{
+    color: white;
+}
+.HireMe{
+    color:white;
+    background-color: orangered;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    margin-right: 20px;
+}
+.HireMe:hover{
+    color: black;
+    background-color: whitesmoke;
+}
+span{
+    color: orangered;
+}
+#PortfolioLink{
+ color: orangered;
+}
